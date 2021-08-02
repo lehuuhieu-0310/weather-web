@@ -1,3 +1,3 @@
-![example workflow](https://github.com/<lehuuhieu-0310>/<weather-web>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
 # weather-web
